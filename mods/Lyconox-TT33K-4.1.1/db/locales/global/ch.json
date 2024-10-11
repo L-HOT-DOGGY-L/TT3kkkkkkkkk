@@ -1,0 +1,99 @@
+{
+    "itemids": {
+        "lyconoxtt33khyber": {
+            "Name": "托卡列夫 TT-33 7.62x25 手枪开伯尔版",
+            "ShortName": "TT K",
+            "Description": "一把传奇的手枪。它经历过无数次的军事冲突，并经过一次又一次的改良，现在在世界上的很多地方仍可以见到它的踪影。这支手枪是TT-33最经典的量产版本，它类似勃朗宁手枪的枪管短后坐式自动原理，但其他方面不同，如结构更简单、单动扳机和采用击锤不到位的保险方式，使它能够经受住暴力的操作。由于大威力的7.62x25子弹和相对较长的枪管，TT具有高初速和高穿透力的特点，即使在较远的距离上也依旧保持着相当高的精准度，并且融入开伯尔劳动人民的智慧结晶，使得其能够全自动射击。"
+        },
+        "lyconoxtt33khybergold": {
+            "Name": "托卡列夫 TT-33 7.62x25 黄金手枪开伯尔版",
+            "ShortName": "TT K",
+            "Description": "一把传奇的手枪。它经历过无数次的军事冲突，并经过一次又一次的改良，现在在世界上的很多地方仍可以见到它的踪影。这支手枪是TT-33最经典的量产版本，它类似勃朗宁手枪的枪管短后坐式自动原理，但其他方面不同，如结构更简单、单动扳机和采用击锤不到位的保险方式，使它能够经受住暴力的操作。由于大威力的7.62x25子弹和相对较长的枪管，TT具有高初速和高穿透力的特点，即使在较远的距离上也依旧保持着相当高的精准度，并且融入开伯尔劳动人民的智慧结晶，使得其能够全自动射击。这把是特别定制黄金版。"
+        },
+        "lyconoxtype54": {
+            "Name": "54式 7.62x25 铂金手枪",
+            "ShortName": "54 Pt",
+            "Description": "在中国和苏联的技术专家共同改进下，这款由TT-33改进的型号，优化了一些瑕疵，于1954年定型并装备军队，被命名为54式手枪，在今后的半个世纪中广泛传播到全世界，以\"大黑星\"闻名世界。这把是特别定制铂金版。"
+        },
+        "lyconoxtt33khybermag": {
+            "Name": "TT 7.62x25 25发弹匣",
+            "ShortName": "TT长弹匣",
+            "Description": "开伯尔山口老乡打造的TT手枪弹匣。"
+        },
+        "lyconoxtt33drummag": {
+            "Name": "TT 7.62x25 75发弹鼓",
+            "ShortName": "TT弹鼓",
+            "Description": "手工打造的TT-33弹鼓，容量比波波沙的还大。"
+        },
+        "5736035624597764307316CA": {
+            "Name": "7.62x25毫米 Timbs脱壳穿甲弹",
+            "ShortName": ".223 Timbs",
+            "Description": "Joseph Timbs在21世纪初基于7.62 x 25mm 托卡列夫软尖弹研发的脱壳穿甲弹，具有极高的初速，令人印象深刻。随着时间流转已经淡出人们的视野，鬼知道是怎么出现在塔科夫的。"
+        },
+        "lyconoxtype54adapterid": {
+            "Name": "54式握把枪托转接器",
+            "ShortName": "54转接",
+            "Description": "为54式手枪握把固定式枪托设计，用于安装枪托的转接器。"
+        },
+        "lyconoxtype54pistolgripid": {
+            "Name": "54式握把侧片",
+            "ShortName": "54侧片",
+            "Description": "54式手枪握把侧片。"
+        },
+        "lyconoxstocktype80id": {
+            "Name": "80式刺刀枪托",
+            "ShortName": "80刺刀",
+            "Description": "所谓的80式刺刀是与80式冲锋手枪一起使用的标准配件，可通过折叠刀柄当作枪托使用。"
+        },
+        "lyconoxjp943id": {
+            "Name": "JP94-3手枪膛口制退器",
+            "ShortName": "JP94-3",
+            "Description": "为JP94-3冲锋手枪设计的定制制退器。"
+        },
+        "lyconoxmuzzlettmafiaid": {
+            "Name": "TT-33黑手党膛口制退器",
+            "ShortName": "Mafia制退器",
+            "Description": "为TT-33手枪设计的定制CNC Mafia制退器。"
+        },
+        "lyconoxmafiatt33barrelthrid": {
+            "Name": "165毫米 7.62x25 黑手党TT螺纹口枪管",
+            "ShortName": "165毫米 Thr. TT",
+            "Description": "带有膛口制退器安装螺纹的TT手枪Mafia枪管。"
+        },
+        "lyconoxmounttt33short": {
+            "Name": "TT定制扳机基座(短)",
+            "ShortName": "TT基座",
+            "Description": "TT-33定制扳机保护基座，用于托卡列夫手枪的现代化改造。"
+        },
+        "lyconoxmounttt33normalrail": {
+            "Name": "游隼II型TT导轨拓展组件",
+            "ShortName": "游隼II",
+            "Description": "游隼II型TT导轨拓展组件是安装在扳机保护基座的前导轨。它提供了安装更多配件所需的空间。"
+        },
+        "lyconoxmounttt33normaldeco": {
+            "Name": "游隼II型TT导轨拓展组件D型",
+            "ShortName": "游隼IID",
+            "Description": "游隼II型TT导轨拓展组件D型是安装在扳机保护基座的前导轨。它提供了安装更多配件所需的空间。"
+        },
+        "lyconoxmounttt33normal": {
+            "Name": "游隼II型TT扳机保护基座",
+            "ShortName": "游隼II基座",
+            "Description": "TT-33游隼II型扳机保护基座，通过Keymod系统安装附件，用于托卡列夫手枪的现代化改造。Nocluchs Co.制造。"
+        },
+        "lyconoxbarrelakid": {
+            "Name": "AKM 7.62x25 手搓枪管",
+            "ShortName": "AK枪管",
+            "Description": "从AKM突击步枪上锯下的枪管，没人知道它是怎么来的。"
+        },
+        "lyconoxadapterakid": {
+            "Name": "TT手搓AK护木转接器",
+            "ShortName": "TTAK转接器",
+            "Description": "绿皮科技震撼人心，俺寻思能用。"
+        },
+        "lyconoxtt33tacmag": {
+            "Name": "TT 7.62x25 12发弹匣",
+            "ShortName": "TT 12",
+            "Description": "TT手枪的订制12发弹匣。"
+        }
+    }
+}

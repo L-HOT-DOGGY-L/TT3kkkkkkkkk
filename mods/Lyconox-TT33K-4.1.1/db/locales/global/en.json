@@ -1,0 +1,99 @@
+{
+    "itemids": {
+        "lyconoxtt33khyber": {
+            "Name": "TT-33 7.62x25 TT Khyber pistol",
+            "ShortName": "TT K",
+            "Description": "A legendary pistol that has seen numerous military conflicts throughout the years and is still in service in certain regions of the world, in one variation or another. This one is a classic TT-33, the most mass-produced version. It features a Browning short-recoil tilting-barrel system, but other than that, the construction design is very unique - it is purposefully simple, single-action, and no safety measures except half-cock notch, which makes it be able to withstand horrible operating abuse. Thanks to the powerful 7.62x25 cartridge and relatively long barrel, the TT boasts high muzzle velocity, penetration, and impressive accuracy, even over long distances. And with wisdom of Khyber labour, it can shoot in full auto."
+        },
+        "lyconoxtt33khybergold": {
+            "Name": "TT-33 7.62x25 TT Khyber pistol (Golden)",
+            "ShortName": "TT K Gold",
+            "Description": "A legendary pistol that has seen numerous military conflicts throughout the years and is still in service in certain regions of the world, in one variation or another. This one is a classic TT-33, the most mass-produced version. It features a Browning short-recoil tilting-barrel system, but other than that, the construction design is very unique - it is purposefully simple, single-action, and no safety measures except half-cock notch, which makes it be able to withstand horrible operating abuse. Thanks to the powerful 7.62x25 cartridge and relatively long barrel, the TT boasts high muzzle velocity, penetration, and impressive accuracy, even over long distances. And with wisdom of Khyber labour, it can shoot in full auto. A special gold edition."
+        },
+        "lyconoxtype54": {
+            "Name": "Type 54 7.62x25 TT pistol (Platinum)",
+            "ShortName": "54 Pt",
+            "Description": "Improved by both Chinese and Soviet technologists, this improved model of the TT-33, optimising some of its imperfections, was finalised and equipped to the military in 1954 and named the Type 54 pistol, which spread widely around the world over the next half century and became known worldwide for \"Big Black Star\". A special platinum edition."
+        },
+        "lyconoxtt33khybermag": {
+            "Name": "TT 7.62x25 25-round long magazine",
+            "ShortName": "TT Mag K",
+            "Description": "A custom TT magazine made by people living in Khyber Pass."
+        },
+        "lyconoxtt33drummag": {
+            "Name": "TT 7.62x25 75-round drum magazine",
+            "ShortName": "TT Drum Mag",
+            "Description": "Homespun TT drum magazine，which capacity is larger than PPsh's."
+        },
+        "5736035624597764307316CA": {
+            "Name": "7.62x25mm Timbs Sabot AP",
+            "ShortName": ".223 Timbs",
+            "Description": "An armor-piercing bullect with superb impressive high velocity based on 7.62 x 25mm Tokarev jacketed soft-point, which loading a case with sabot, by Joseph Timbs in the early 21st century. As time passed by, it has faded and there should be no more existence, theoretically."
+        },
+        "lyconoxtype54adapterid": {
+            "Name": "Type 54 stock adapter",
+            "ShortName": "54 Adapter",
+            "Description": "An adapter for the installation of stocks on Type 54."
+        },
+        "lyconoxtype54pistolgripid": {
+            "Name": "Type 54 side grips",
+            "ShortName": "54 grips",
+            "Description": "Type 54 pistol side grips."
+        },
+        "lyconoxstocktype80id": {
+            "Name": "Type 80 bayonet stock",
+            "ShortName": "80 stock",
+            "Description": "The so-called \"Type 80 bayonet\" is a bayonet adopted as a standard-issue for use with Type 80 machine pistol's stock by folding its handle, which can also used by exported Type 54 pistol, with some modification."
+        },
+        "lyconoxjp943id": {
+            "Name": "JP94-3 machine pistol muzzle brake-compensator",
+            "ShortName": "JP94-3",
+            "Description": "A custom compensator for JP94-3 machine pistol."
+        },
+        "lyconoxmuzzlettmafiaid": {
+            "Name": "TT-33 mafia muzzle brake-compensator",
+            "ShortName": "Mafia",
+            "Description": "A custom CNC Mafia compensator for TT-33 pistol."
+        },
+        "lyconoxmafiatt33barrelthrid": {
+            "Name": "TT 7.62x25 165mm Mafia threaded barrel",
+            "ShortName": "TT 165mm thr.",
+            "Description": "A Mafia version barrel for TT pistol with threading for muzzle brake-compensator."
+        },
+        "lyconoxmounttt33short": {
+            "Name": "TT custom trigger guard mount(Short)",
+            "ShortName": "TT mount",
+            "Description": "TT-33 custom trigger guard mount, aims at modernization of Tokarev, to install devices."
+        },
+        "lyconoxmounttt33normalrail": {
+            "Name": "TT Sokoly II rail extension",
+            "ShortName": "TT SII",
+            "Description": "The tactical Sokoly II sight mount. Allows mounting of additional reflex sights and tactical accessories."
+        },
+        "lyconoxmounttt33normaldeco": {
+            "Name": "TT Sokoly II rail extension mod D",
+            "ShortName": "TT SII D",
+            "Description": "The tactical Sokoly II sight mount mod D. Allows mounting of additional reflex sights and tactical accessories."
+        },
+        "lyconoxmounttt33normal": {
+            "Name": "TT Sokoly II trigger guard mount",
+            "ShortName": "TT TGM",
+            "Description": "TT-33 Sokoly II trigger guard mount, aims at modernization of Tokarev, using keymod to install devices. Manufactured by Nocluchs Co.."
+        },
+        "lyconoxbarrelakid": {
+            "Name": "TT 7.62x25 AKM homespun barrel",
+            "ShortName": "TT AK Barrel",
+            "Description": "A sawed off barrel from AKM assault rifle, no one knows where it came from."
+        },
+        "lyconoxadapterakid": {
+            "Name": "TT homespun AK handguard adapter",
+            "ShortName": "TTAK Adapter",
+            "Description": "A waagh magic, I think it should work......Waaaaaaagh!!!"
+        },
+        "lyconoxtt33tacmag": {
+            "Name": "TT 7.62x25 12-round magazine",
+            "ShortName": "TT 12",
+            "Description": "A 7.62x25 12-round TT magazine."
+        }
+    }
+}

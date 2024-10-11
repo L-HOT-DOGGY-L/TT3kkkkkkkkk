@@ -1,0 +1,110 @@
+{
+	"manifest": [
+		{
+			"key": "tt33mod1/textures/client_assets.bundle",
+			"dependencyKeys": []
+		},
+		{
+			"key": "tt33mod1/client_assets.bundle",
+			"dependencyKeys": [
+				"tt33mod1/textures/client_assets.bundle",
+				"cubemaps",
+				"shaders"
+			]
+		},
+		{
+			
+			"key": "tt33mod1/weapon_toz_tt_762x25tt_container.bundle",
+			"dependencyKeys": [
+				"tt33mod1/client_assets.bundle",
+				"tt33mod1/textures/client_assets.bundle",
+				"assets/commonassets/physics/physicsmaterials.bundle",
+				"assets/content/audio/banks/tt.bundle",
+				"assets/content/audio/blendoptions/assets.bundle",
+				"assets/content/audio/weapons/generic",
+				"assets/content/audio/weapons/kedr.bundle",
+				"assets/content/audio/weapons/pb.bundle",
+				"assets/content/audio/weapons/pm.bundle",
+				"assets/content/audio/weapons/tt.bundle",
+				"assets/content/weapons/additional_hands/client_assets.bundle",
+				"assets/content/weapons/animations/spirit_animations.bundle",
+				"assets/content/weapons/weapon_root_anim_fix.bundle",
+				"assets/content/weapons/wip/kibas tuning prefabs/muzzlejets_templates/default_assets.bundle",
+				"assets/systems/effects/heathaze/defaultheathaze.bundle",
+				"assets/systems/effects/muzzleflash/muzzleflash.bundle",
+				"assets/systems/effects/smoke.bundle",
+				"cubemaps",
+				"shaders"
+			]
+		},
+		{
+			"key": "tt33mod1/magazine_long.bundle",
+			"dependencyKeys": ["shaders"]
+		},
+		{
+			"key": "tt33mod1/magazine_drum.bundle",
+			"dependencyKeys": ["shaders"]
+		},
+		{
+			"key": "tt33mod1/ammo_tt_762x25mm_sabot.bundle",
+			"dependencyKeys": ["shaders"]
+		},
+		{
+			"key": "tt33mod1/mout_type54_adapter.bundle",
+			"dependencyKeys": ["shaders"]
+		},
+		{
+			"key": "tt33mod1/pistolgrip_type_54.bundle",
+			"dependencyKeys": ["shaders"]
+		},
+		{
+			"key": "tt33mod1/stock_type80.bundle",
+			"dependencyKeys": ["shaders"]
+		},
+		{
+			"key": "tt33mod1/barrel_tt_165mm_mafia.bundle",
+			"dependencyKeys": [
+				"assets/commonassets/physics/physicsmaterials.bundle",
+            	"assets/systems/effects/smoke.bundle",
+            	"cubemaps",
+				"shaders"
+			]
+		},
+		{
+			"key": "tt33mod1/muzzle_jp94_3.bundle",
+			"dependencyKeys": ["shaders"]
+		},
+		{
+			"key": "tt33mod1/muzzle_tt_mafia.bundle",
+			"dependencyKeys": ["shaders"]
+		},
+		{
+			"key": "tt33mod1/mount_tt_short.bundle",
+			"dependencyKeys": ["shaders"]
+		},
+		{
+			"key": "tt33mod1/mount_tt_nl.bundle",
+			"dependencyKeys": ["shaders"]
+		},
+		{
+			"key": "tt33mod1/mount_rail_tt_nl.bundle",
+			"dependencyKeys": ["shaders"]
+		},
+		{
+			"key": "tt33mod1/mount_deco_tt_nl.bundle",
+			"dependencyKeys": ["shaders"]
+		},
+		{
+			"key": "tt33mod1/barrel_tt_ak.bundle",
+			"dependencyKeys": ["shaders"]
+		},
+		{
+			"key": "tt33mod1/mount_tt_ak.bundle",
+			"dependencyKeys": ["shaders"]
+		},
+		{
+			"key": "tt33mod1/magazine_tac.bundle",
+			"dependencyKeys": ["shaders"]
+		}
+	]
+}
